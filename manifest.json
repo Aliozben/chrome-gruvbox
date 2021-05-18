@@ -3,15 +3,22 @@
   "name": "gruvbox theme",
   "version": "1.0",
   "theme": {
-    "colors" : {
-      "frame" : [29, 32, 33],
-      "frame_inactive" : [29, 32, 33],
-      "frame_incognito" : [167, 152, 133],
-      "frame_incognito_inactive" : [212, 195, 163],
-      "toolbar" : [60, 56, 55],
-      "tab_text" : [251, 241, 201],
-      "tab_background_text" : [145, 131, 117],
-      "bookmark_text" : [251, 241, 201]
+    "colors": {
+      "bookmark_text": [251, 241, 199],
+      "button_background": [0, 0, 0, 0],
+      "frame": [40, 40, 40],
+      "ntp_background": [255, 255, 255],
+      "ntp_link": [6, 55, 116],
+      "ntp_text": [0, 0, 0],
+      "tab_background_text": [251, 241, 199],
+      "tab_text": [142, 192, 124],
+      "toolbar": [60, 56, 54],
+      "frame_inactive": [40, 40, 40],
+      "frame_incognito": [29, 32, 33],
+      "frame_incognito_inactive": [29, 32, 33]
+    },
+    "tints": {
+      "buttons": [0.13, 0.87, 0.88]
     }
   }
 }
